@@ -1,0 +1,14 @@
+(http://qz.com/572338/the-quartz-guide-to-bad-data/ ? gives all the possible scenarios of a ‘bad data’).
+
+GIS : http://pro.arcgis.com/en/pro-app/
+
+https://github.com/woodpeck/osm-revert-scripts
+
+OSM FORUM : http://forum.openstreetmap.org/viewtopic.php?id=6071
+
+MapZEN LINK : https://mapzen.com/data/metro-extracts/metro/philadelphia_pennsylvania
+
+Stackoverflow.
+
+
+other OSM sources in the pdf(linked).

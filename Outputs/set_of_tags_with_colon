@@ -1,0 +1,17 @@
+set(['site_status', 'bridge', 'maxspeed', 'bicycle', 'aerodrome', 'WDPA_ID', 'wa
+ll', 'seamark', 'indoor', 'radnor', 'plant', 'healthcare', 'aerialway', 'butcher
+', 'parking', 'operator', 'junction', 'ship', 'gnis', 'access', 'capaci
+ty', 'addr', 'generator', 'source', 'hgv', 'opening_hours', 'destination', 'temp
+orary', 'tiger.source', 'cycleway', 'note', 'penndot', 'old_name', 'PA', 'nrhp',
+ 'toll', 'fuel', ', 'ref', 'start_date', 'website', 'FIXME', 'lanes', 'des
+cription', 'theatre', 'NHD', 'social_facility', 'heritage', 'park', 'diet', 'tig
+er', 'phone', 'communication', 'piste', 'toilets', 'motor_vehicle', 'monitoring'
+, 'crane', 'payment', 'change', 'name', 'building', 'massgis', 'abandoned', 'pas
+da', 'ruins', 'wheelchair', 'ramp', 'roof', 'busway', 'turn', 'contact', 'survey
+', 'tower', 'passing_places', 'oneway', 'railway', 'internet_access', 'di
+sused', 'garden', 'source_ref'])
+
+is_in
+
+nrhp , isced replace _ to :
+

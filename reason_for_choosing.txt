@@ -1,0 +1,10 @@
+I've chosen the Philadelphia city of Pennsylvania. 
+Since it is a city and it is located the United states, I figured I will have plenty of data to work on . Also, compressed it was 47MB , which is not too large but not too small too. 
+
+My other options were Tokyo(which on uncompressing was huge!) and I figured I wouldn't be able to clean even 1% of it. 
+
+Next I looked at my home-town of Chennai (https://en.wikipedia.org/wiki/Chennai). This data was however, too small.
+
+Therefore, I looked at various places inside the US and Philadelphia had a workable file size. I could open the entire OSM file in sublime text and although I took few minutes to load the entire file , I could look at all the points in the map and this helped the auditing process.
+
+(Also, https://en.wikipedia.org/wiki/Rocky_(film_series) !!)
